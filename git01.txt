@@ -9,3 +9,7 @@ git ls-files ------>查看仓库文件列表
 
 
 进行修改
+
+git reset --hard HEAD^^^^^^^^
+git reset --hard a7078
+git reflog
